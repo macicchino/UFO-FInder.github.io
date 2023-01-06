@@ -1,6 +1,8 @@
 # UFO-Finder.github.io
 Github Live Version of UFO Finder Module 12 Challenge
 
+Note for Grader: Please use the following github.io link to access the live page
+https://macicchino.github.io/UFO-Finder.github.io/
 
 ## Overview of the analysis:
   - Dana wants to build a webpage with a dynamic table that allows users to filter for multiple criteria in one search. The users will be able to search by date, city, state, country, and shape. 
