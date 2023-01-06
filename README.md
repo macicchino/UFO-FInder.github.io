@@ -10,11 +10,16 @@ Github Live Version of UFO Finder Module 12 Challenge
 
 ### Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
-  - In order to use the webpage the user must enter lower case and exact values for table to return results. The user is able to able to enter up to 5 filters for the search. If there is not an exact match the table will return empty, the user should remove some constraints and try again. 
-  - For Example: The user could enter 'fl' for the State Filter, enter 'us' for the Country Filter, and 'sphere' for the Shape Filter. 
+  - In order to use the webpage the user must enter lower case and exact values for table to return results. The user is able to able to enter up to 5 filters for the search. If there is not an exact match the table will return empty, the user should remove some constraints and try again.
+  
+  - For Example: The user could enter 'fl' for the State Filter, enter 'us' for the Country Filter, and 'sphere' for the Shape Filter. As shown below, there are 3 sightings of UFO's matching the criteria [ State: 'fl' , Country: 'us' , Shape: 'sphere' ].
+
+![dev_1](images/fl-us-sphere-search.png "Florida")
+
+- Another Example: The user could enter '1/1/2010' for the Date Filter, enter 'us' for the State Filter, and 'light' for the Shape Filter. As shown below, there are 7 sightings of UFO's matching the criteria [ Date: '1/1/2010' , State: 'ca' , Shape: 'light' ].
 
 
-![dev_1](images/List_of_dict.png "Dictionaries in a list")
+![dev_2](images/date-ca-light.png "California")
 
 ## Summary:
 
