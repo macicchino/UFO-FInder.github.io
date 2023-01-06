@@ -3,12 +3,15 @@ Github Live Version of UFO Finder Module 12 Challenge
 
 
 ## Overview of the analysis:
-  - Explain the purpose of this analysis.
+  - Dana wants to build a webpage with a dynamic table that allows users to filter for multiple criteria in one search. The users will be able to search by date, city, state, country, and shape. 
+  - Using HTML, CSS, and JS we can build this table by adding the additional filters in HTML then adding multiple functions to iterate through the user inputs using JS. 
 
 ## Results:
-  - Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
-  - 
+### Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+
+  - In order to use the webpage the user must enter lower case and exact values for table to return results. The user is able to able to enter up to 5 filters for the search. If there is not an exact match the table will return empty, the user should remove some constraints and try again. 
+  - For Example: The user could enter 'fl' for the State Filter, enter 'us' for the Country Filter, and 'sphere' for the Shape Filter. 
 
 
 ![dev_1](images/List_of_dict.png "Dictionaries in a list")
